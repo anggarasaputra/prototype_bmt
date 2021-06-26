@@ -35,7 +35,7 @@
 </head>
 <body>
     <div id="logo" class="center">
-        <img src="assets/img/logo.png" alt="BMT" class="center" />
+        <img src="assets/img/logoc.png" alt="BMT" class="center" />
     </div>
   <div id="login">
   <p class="center"></p>
@@ -75,8 +75,7 @@
     </form>
   </div>
   <div id="login-copyright">
-    Keuangan Syariah  oleh<br>
-    <img src="assets/img/pegadaian.png" alt="pegadaian" class="center" />
+    Manajemen Keuangan Microbanking Syariah
   </div>
   <script src="../assets/plugins/jquery-1.8.3.min.js" type="text/javascript"></script> 
   <!-- IMPORTANT! Load jquery-ui-1.10.1.custom.min.js before bootstrap.min.js to fix bootstrap tooltip conflict with jquery ui tooltip -->  

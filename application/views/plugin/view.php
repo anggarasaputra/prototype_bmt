@@ -18,7 +18,7 @@
 	<title>BMT</title>
 	<base href="<?php echo base_url();?>" />
 	
-    <link rel="icon" href="assets/images/favicon.jpg" type="image/jpg" />
+    <link rel="icon" href="assets/images/favicon.png" type="image/jpg" />
 	<meta content="width=device-width, initial-scale=1.0" name="viewport" />
 	<link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
 	<link href="assets/plugins/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" />

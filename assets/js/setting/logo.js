@@ -15,8 +15,8 @@ $(document).ready(function(){
  *  --------------------- jurnal -----------------------------------------
  */
     $('.cupload').click( function() {
-    	$("#foto_upload").attr("src","assets/img/logo.png?"+(new Date().getTime())).error(function() {
-            $(this).attr("src","assets/img/logo.png?"+(new Date().getTime()));
+    	$("#foto_upload").attr("src","assets/img/logoc.png?"+(new Date().getTime())).error(function() {
+            $(this).attr("src","assets/img/logoc.png?"+(new Date().getTime()));
         });
         $('#upload_target').remove();
         $("<iframe id=\"upload_target\" name=\"upload_target\" style=\"width:0;height:0;border:0px;\"></iframe>").appendTo("body");
