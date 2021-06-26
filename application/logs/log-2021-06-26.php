@@ -11,3 +11,4 @@ ERROR - 2021-06-26 22:18:16 --> Severity: Notice --> Undefined offset: 1 /Users/
 ERROR - 2021-06-26 22:18:16 --> Severity: Notice --> Undefined offset: 1 /Users/anggasaputro/www/bank_angga/application/libraries/MY_Encrypt.php 106
 ERROR - 2021-06-26 22:19:26 --> Severity: Notice --> Undefined offset: 1 /Users/anggasaputro/www/bank_angga/application/libraries/MY_Encrypt.php 106
 ERROR - 2021-06-26 22:20:57 --> 404 Page Not Found: Test/index
+ERROR - 2021-06-26 23:16:44 --> 404 Page Not Found: Assets/images
