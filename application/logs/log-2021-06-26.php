@@ -15,3 +15,5 @@ ERROR - 2021-06-26 23:16:44 --> 404 Page Not Found: Assets/images
 ERROR - 2021-06-26 23:38:37 --> 404 Page Not Found: Faviconico/index
 ERROR - 2021-06-26 23:40:04 --> 404 Page Not Found: Assets/images
 ERROR - 2021-06-26 23:40:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-06-26 23:42:27 --> 404 Page Not Found: Assets/images
+ERROR - 2021-06-26 23:45:20 --> 404 Page Not Found: Assets/images
