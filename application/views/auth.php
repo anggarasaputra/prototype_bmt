@@ -75,7 +75,7 @@
     </form>
   </div>
   <div id="login-copyright">
-    AKSIOMA (Aplikasi Keuangan Mikro Masyarakat Ekonomi Syariah) ver. 1.0 ini dipersembahkan oleh<br>
+    Keuangan Syariah  oleh<br>
     <img src="assets/img/pegadaian.png" alt="pegadaian" class="center" />
   </div>
   <script src="../assets/plugins/jquery-1.8.3.min.js" type="text/javascript"></script> 

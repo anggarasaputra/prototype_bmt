@@ -213,7 +213,7 @@
 		</div>
 	</div>
 	<div id="footer">
-		<br>AKSIOMA (Aplikasi Keuangan Mikro Masyarakat Ekonomi Syariah) ver. 1.0 ini dipersembahkan oleh <img src="assets/img/pegadaianc.png" alt="pegadaian" class="center" />
+		<br>Keuangan Syariah  oleh <img src="assets/img/pegadaianc.png" alt="pegadaian" class="center" />
 		<div class="span pull-right">
 			<span class="go-top"><i class="icon-arrow-up"></i></span>
 		</div>
