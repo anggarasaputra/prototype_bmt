@@ -142,7 +142,7 @@
 		</div>
 	</div>
 	<div id="footer">
-		<br>Keuangan Syariah  oleh <img src="assets/img/pegadaianc.png" alt="pegadaian" class="center" />
+		<br>Keuangan Syariah  oleh <img src="assets/img/logoc.png" alt="pegadaian" class="center" />
 		
 	</div>
 	
